@@ -1,3 +1,5 @@
+Work on this research was conducted with funding from the HTML5Apps project ( funded by the European Union through the Seventh Framework Programme (FP7/2013-2015) under grant agreement n°611327).
+
 # Bluetooth LE and Web Apps
 
 Bluetooth LE (or Bluetooth Smart) is one of the additions brought
